@@ -1,0 +1,17 @@
+body{
+  background-color: #e0ece4;
+}
+hr{
+  background-color: none;
+  border-style: none;
+  border-top: dotted #a6a6a4 4px;
+  width: 4%; /*width is not fixed as it might change. Hence a percentage value*/
+}
+h1{
+  color: #0d7377;
+  text-shadow: 2px 2px 2px grey;
+  font-family: "Comic Sans MS";
+}
+h3{
+  color: #0d7377;
+}
